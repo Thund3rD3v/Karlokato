@@ -1,0 +1,28 @@
+#body_0{background-image:url('green_background.png');font-family:sans-serif;}
+#body_1{background-color:#666666;font-family:sans-serif;}
+.main_head{position:absolute;left:555px;}
+h2{color:#ffffff;font-size:43px;font-weight:bold;position:absolute;}
+a{color:#ffffff;position:absolute;}
+p{color:#ffffff;position:absolute;}
+button{background-color:#3D3D3B;padding:7px;color:#ffffff;font-size:17px;border-radius:5px;border:none;position:absolute;}
+.button_1{font-size:27px}
+button:hover{background-color:#4a4a4a;box-shadow:0 12px 16px rgba(0,0,0,0.28),0 17px 50px rgba(0,0,0,0.28);transition:0.5s;}
+input[type=text],input[type=password]{padding:5px;border:3px solid #ccc;box-shadow:0 12px 16px rgba(0,0,0,0.28),0 17px 50px rgba(0,0,0,0.28);position:absolute;}
+.input_1{height:72px;width:514px;font-size:27px;}
+input[type=text]:focus,input[type=password]:focus{border:3px solid #555;background-color:#add8e6;transition:0.8s;}
+div{position:absolute}
+#div_login{background-color:#66cc99;height:350px;width:550px;top:180px;left:672px;border-radius:10px;box-shadow:0 12px 16px rgba(0,0,0,0.28),0 17px 50px rgba(0,0,0,0.28);}
+#h2_login{top:-30px;left:215px;}
+#input_username_login{top:70px;left:10px;}
+#input_password_login{top:160px;left:10px;}
+#button_login{top:260px;left:235px;}
+#a_register{top:320px;left:100px;}
+#div_register{background-color:#66cc99;height:580px;width:550px;top:180px;left:672px;border-radius:10px;box-shadow:0 12px 16px rgba(0,0,0,0.28),0 17px 50px rgba(0,0,0,0.28);}
+#h2_register{top:-30px;left:185px;}
+#input_username_register{top:70px;left:10px;}
+#input_password_register{top:160px;left:10px;}
+#input_password_confirm{top:250px;left:10px;}
+#p_age{top:340px;left:10px;}
+#input_age{top:385px;left:10px;}
+#button_register{top:490px;left:173px;}
+#a_login{top:550px;left:50px;}
