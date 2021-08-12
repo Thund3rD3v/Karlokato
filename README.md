@@ -1,6 +1,9 @@
 # Karlokato - http://24.108.222.121
 Karlokato - Discord Opensource Project
 
+[NOTICE]
+As we continue to build there will be several minor changes in the code. If you choose to use an older version of the software it may not work correctly.
+
 [USAGE]
 You may download, modify, and use Karlokato code and services. If in any case you use Karlokato code, you must credit the creators.
 
